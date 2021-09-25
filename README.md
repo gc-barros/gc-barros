@@ -30,12 +30,7 @@
   <img align="center" alt="MySQL" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div><br><br>
 
-
-<!--
-
-
-
--->
+<br>
 
 <div align="center">
   <a href="https://github.com/gc-barros">
