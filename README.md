@@ -1,4 +1,4 @@
-#### Hello World! <img alt="hi" height="20" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"> Welcome to my profile:
+#### Hello, World! <img alt="hi" height="20" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"> Welcome to my profile:
 # 🤠 Gabriel Barros 
   
   <img align="right" alt="poke-ghosts" height="250" src="https://c.tenor.com/0c728qn5y6cAAAAi/gengar-pokemon.gif">
