@@ -13,7 +13,7 @@
 
 * 🎓 Computer Science student
 * 👨‍💻 Full Stack Developer in training
-
+* 💚 Visit my <a href="https://www.barrosdev.com.br/" target="_blank"><b>portfolio website</b></a> ☺
 
 <br>
 
