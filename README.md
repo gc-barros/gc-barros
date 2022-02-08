@@ -6,11 +6,7 @@
   <a href = "mailto:gc.barros81@gmail.com"><img height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-b-526ab7127/" target="_blank"><img height="25" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/gabri.elbarros/" target="_blank"><img height="25" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/gabri.elbarros/" target="_blank"><img height="25" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/gabri.elbarros/" target="_blank"><img height="25" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   
-
-
 * 🎓 Computer Engineering student
 * 👨‍💻 Front-end Developer
 * 💚 Visit my <a href="https://www.barrosdev.com.br/" target="_blank"><b>portfolio website</b></a> ☺
