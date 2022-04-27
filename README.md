@@ -4,8 +4,8 @@
   
   <img align="right" alt="poke-ghosts" height="250" src="https://c.tenor.com/0c728qn5y6cAAAAi/gengar-pokemon.gif">
   
-  <a href = "mailto:gc.barros81@gmail.com"><img height="25" src="https://img.shields.io/badge/Gmail-ED5ECD?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabrielcbarros/" target="_blank"><img height="25" src="https://img.shields.io/badge/-LinkedIn-A05BF2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gc.barros81@gmail.com"><img height="25" src="https://img.shields.io/badge/Gmail-d64fb6?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabrielcbarros/" target="_blank"><img height="25" src="https://img.shields.io/badge/-LinkedIn-8c4cdb?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 * 🎓 Computer Engineering student
 * 👨‍💻 Front-end Developer
