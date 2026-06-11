@@ -9,7 +9,7 @@
   
 * 🎓 Computer Engineering student
 * 👨‍💻 Front-end Developer
-* 💜 Visit my <a href="https://www.barrosdev.com.br/" target="_blank"><b>portfolio website</b></a> ☺
+* 💜 Visit my <a href="https://barrosdev.vercel.app/" target="_blank"><b>portfolio website</b></a> ☺
 
 <br>
 
